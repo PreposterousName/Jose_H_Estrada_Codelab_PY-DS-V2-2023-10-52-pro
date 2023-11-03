@@ -1,3 +1,4 @@
+# Define una variable de cada tipo de primitivo
 nombre = "Jose Estrada"
 edad = 20
 estatura = 1.76
